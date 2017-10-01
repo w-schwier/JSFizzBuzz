@@ -10,4 +10,4 @@ Initially it was slightly challenging because I haven't used JS for a while, but
 
  Open up the developer panel, on a mac this is done by pressing option + cmd + i,
 
- ![Seen in action here](/src/Screen Shot 2017-10-01 at 17.21.57.png?raw=true)
+ [Seen in action here](/src/Screen Shot 2017-10-01 at 17.21.57.png?raw=true)
