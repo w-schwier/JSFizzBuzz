@@ -8,6 +8,6 @@ Initially it was slightly challenging because I haven't used JS for a while, but
 
  Clone this repo and change into it. Copy the file path for SpecRunner.html and visit the page on a browser.
 
- Open up the developer panel, on a mac this is done by pressing option + cmd + i,
+ Open up the developer panel, on a mac this is done by pressing option + cmd + i.
 
  ![Seen in action here](/src/screenshot.png?raw=true)
